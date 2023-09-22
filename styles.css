@@ -288,6 +288,8 @@
 
 .price_box1{
     padding-top: 2%;
+    align-items: center;
+    align-content: center;
 }
 
 .sale1{
@@ -411,6 +413,8 @@
 
     .price_box1{
         padding-top: 8%;
+        align-content: center;
+        align-items: center;
     }
 
     .sale1{
