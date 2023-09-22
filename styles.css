@@ -419,9 +419,6 @@
     .sale1{
         margin-left: 6.5%;
         width: 90%;
-        float: left;
-        align-self: center;
-        align-content: center;
     }
     
     .sale1_p{
@@ -443,10 +440,7 @@
     .sale2{
         margin-left: 6.5%;
         width: 90%;
-        float: left;
         margin-top: 7%;
-        align-self: center;
-        align-content: center;
     }
     
     
@@ -470,10 +464,7 @@
     .sale3{
         margin-left: 6.5%;
         width: 90%;
-        float: left;
         margin-top: 7%;
-        align-self: center;
-        align-content: center;
     }
     
     
