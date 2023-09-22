@@ -421,6 +421,10 @@
         width: 90%;
     }
     
+    .sale1 img{
+        margin-left: 1%;
+    }
+
     .sale1_p{
         font-family: 'Noto sans';
         font-weight: 400;
@@ -443,6 +447,9 @@
         margin-top: 7%;
     }
     
+    .sale2 img{
+        margin-left: 1%;
+    }
     
     .sale2_p{
         font-family: 'Noto sans';
@@ -467,6 +474,9 @@
         margin-top: 7%;
     }
     
+    .sale3 img{
+        margin-left: 1%;
+    }
     
     .sale3_p{
         font-family: 'Noto sans';
@@ -645,7 +655,7 @@ hr{
     .box1{
         background-color: #4A3F48;
         width: 90%;
-        margin-left: 6%;
+        margin-left: 4%;
         height: 79%;
         border-radius: 3px;
         margin-top: 2%;
