@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-@media (max-width: 500px) and (min-width: 300px){
+@media (max-width: 1100px) and (min-width: 300px){
     *{
         margin: 0%;
         padding: 0%;
@@ -74,7 +74,7 @@
 }
 
 
-@media (max-width: 500px) and (min-width: 300px){
+@media (max-width: 1100px) and (min-width: 300px){
 
     .nav_logo{
         margin-right: 37%;
@@ -203,7 +203,7 @@
 
 
 
-@media (max-width: 500px) and (min-width: 300px) {
+@media (max-width: 1100px) and (min-width: 300px) {
     #ad_sect{
         height: 430px;
         background-size: 100% 80%;
@@ -388,7 +388,7 @@
 }
 
 
-@media (max-width: 700px) and (min-width: 300px){
+@media (max-width: 1100px) and (min-width: 300px){
 
     #cord_sect{
         height: 1000px;
@@ -418,7 +418,7 @@
     }
 
     .sale1{
-        margin-left: 15%;
+        margin-left: 10%;
         width: 300px;
         float: left;
         align-self: center;
@@ -442,7 +442,7 @@
     }
 
     .sale2{
-        margin-left: 15%;
+        margin-left: 10%;
         width: 300px;
         float: left;
         margin-top: 7%;
@@ -469,7 +469,7 @@
     
     
     .sale3{
-        margin-left: 15%;
+        margin-left: 10%;
         width: 300px;
         float: left;
         margin-top: 7%;
@@ -534,7 +534,7 @@
     height: 100px;
 }
 
-@media (max-width: 700px) and (min-width: 300px){
+@media (max-width: 1100px) and (min-width: 300px){
     #out_sect{
         height: 1000px;
     }
@@ -554,7 +554,7 @@
     height: 700px;
 }
 
-@media (max-width: 700px) and (min-width: 300px){
+@media (max-width: 1100px) and (min-width: 300px){
     #access_sect{
         height: 1000px;
     }
@@ -647,7 +647,7 @@ hr{
     opacity: 50%;
 }
 
-@media (max-width: 500px) and (min-width: 300px) {
+@media (max-width: 1100px) and (min-width: 300px) {
     #bik_sect{
         height: 700px;
     }
@@ -838,7 +838,7 @@ hr{
 }
 
 
-@media (max-width: 700px) and (min-width: 300px){
+@media (max-width: 1100px) and (min-width: 300px){
     #footer{
         height: 440px;
     }
